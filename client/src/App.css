@@ -17,13 +17,6 @@
   align-items: center;
 }
 
-.updateButton {
-  height: 3rem;
-  font-size: 2rem;
-  font-weight: bold;
-  background-color: white;
-}
-
 .cardList {
   display: grid;
   width: 100vw;

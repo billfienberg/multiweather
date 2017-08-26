@@ -1,6 +1,6 @@
 # MultiWeather
 
-## Context: I recently learned about `Promise.all`, and I wanted to experiment with it. So I built an app
+## Context: I recently learned about `Promise.all`, and I wanted to experiment with it. So I built a simple weather app that combines two different calls to OpenWeatherMap's API. One call was for current weather data, and another call was for forecast weather data.
 
 ### Technologies/Concepts
 * JavaScript
@@ -12,8 +12,8 @@
  * Flexbox
  * Grid Layout
 * API
- * https://openweathermap.org
+ * [Open Weather Map](https://openweathermap.org)
 * Icons
- * http://www.freepik.com/
+ * [Freepik](http://www.freepik.com/)
 * Deploy
  * Heroku
